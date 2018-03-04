@@ -1,0 +1,88 @@
+html {
+    background-color: #47FFC7
+}
+
+body {
+    font-family: Ubuntu, sans-serif;
+}
+
+h1 {
+	font-family: "Ubuntu";
+	font-size: 50px;
+    color: #65045D;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+    text-align: center;
+    font-weight: bold
+}
+
+h2  {
+	font-family: "Ubuntu";
+	font-size: 35px;
+    color: antiquewhite;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+    text-align: center;
+    font-weight: lighter
+}
+h3 {
+	font-family: "Ubuntu";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: "Ubuntu";
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+    color: white;
+}
+blockquote {
+	font-family: "Ubuntu";
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: "Ubuntu";
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+
+  ul {
+            margin: 0;
+            padding: 5px;
+            list-style-type: none;
+            text-align: center;
+            background-color: #65045D;
+        }
+        
+ ul li {
+            display: inline;
+        }
+        
+ ul li a {
+            text-decoration: none;
+            padding: .2em 1em;
+            color: #47FFC7;
+            background-color: #65045D;
+        }
+        
+ ul li a:hover {
+            color: #65045D;
+            background-color: #65045D;
+        }
